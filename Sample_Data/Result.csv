@@ -1,0 +1,22 @@
+Student ID,Class,Study hrs,Social Media usage hrs,Percentage,Grade,Gender
+1001,10,2,3,50,Avg,Female
+1002,10,6,2,80,Vgood,Male
+1003,10,3,2,60,Good,Female
+1004,11,0,1,45,Fail,Male
+1005,12,5,2,75,Good,Female
+1006,,2,,70,Good,
+1007,,3,,62,Good,
+1008,9,,2,70,Good,Female
+1009,10,,3,,,Male
+1010,11,5,1,,,
+1011,12,3,2,,,
+1012,,2,3,,,Female
+1013,,1,1,,,Male
+1014,,,1,67,Good,
+1015,9,2,2,,,
+1016,10,3,1,55,Avg,Male
+1017,11,4,2,80,Vgood,Male
+1018,12,5,2,67,Good,Female
+1019,,6,,,,Female
+1020,,,,70,Good,Male
+1021,10,2,1,,,
